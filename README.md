@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Q1an05
+- 👋 Hi, I’m @Q1an05 一个大帅逼
 - 👀 I’m interested in game design and game programming
 - 🌱 I’m currently learning python and c#
 - 💞️ I’m looking to collaborate on ...
